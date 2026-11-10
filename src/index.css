@@ -105,10 +105,12 @@
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(90deg, #ffd166 0%, #ff7a45 30%, #ff2e93 62%, #c86bff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+  color: transparent;
+  filter: drop-shadow(0 2px 12px rgba(255, 46, 147, 0.35));
 }
 
 @keyframes pulse-glow {
