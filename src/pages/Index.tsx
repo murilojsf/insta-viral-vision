@@ -71,7 +71,8 @@ const Index = () => {
             <div className="text-center space-y-4">
               <h1 className="text-5xl font-bold text-white mb-4">
                 IA para Análise de Vídeos
-                <span className="block gradient-text">Instagram</span>
+                <br />
+                <span className="gradient-text">Instagram</span>
               </h1>
               <p className="text-xl text-white/80 max-w-2xl mx-auto">
                 Descubra o potencial viral e de vendas dos seus vídeos com nossa IA avançada
